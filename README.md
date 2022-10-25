@@ -10,5 +10,6 @@ This repository contains some of the resources for automating your geospatial wo
 4. [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) by the University of Helsinki
 5. [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/index.html#) by the University of Helsinki
 6. [PyGIS - Open Source Spatial Programming & Remote Sensing](https://pygis.io/docs/a_intro.html)
-7. [Mapping and Data Visualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) by Ujaval Gandhi 
+7. [Mapping and Data Visualization with Python](https://courses.spatialthoughts.com/python-dataviz.html) by Ujaval Gandhi
+8. [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) by Tomas Beuzen 
 
