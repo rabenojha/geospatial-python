@@ -1,6 +1,6 @@
  #python #geospatial #gis 
 
-This repository contains some of the resources for automating your geospatial works.
+This repository contains some of the resources for learning Python for your geospatial works.
 
 
 
